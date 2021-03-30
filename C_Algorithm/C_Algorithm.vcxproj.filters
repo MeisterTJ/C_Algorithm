@@ -9,5 +9,19 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
+    <Filter Include="Baekjoon">
+      <UniqueIdentifier>{e187b4d3-4953-4476-831c-9eff07f4a294}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Programmers">
+      <UniqueIdentifier>{14c51937-e2fb-4be7-aa68-399b2cc88240}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="[7576]_토마토.cpp">
+      <Filter>Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="[10798]_세로읽기.cpp">
+      <Filter>Baekjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
